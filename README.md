@@ -1,5 +1,5 @@
 # Todo Web Application
-This project is created using React JS with Typescript. CRUD operations are implemented on the frontend.
+This is a Todo application with CRUD (Create, Read, Update, Delete) operations.
 
 # Tech Stack
 React JS with Typescript
