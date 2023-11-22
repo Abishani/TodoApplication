@@ -18,4 +18,4 @@ Run the following command to install all the required modules: <br/>
 
 # Run the Application
 To start the application, use the following command:
-### npm start
+__npm start__
